@@ -1,0 +1,6 @@
+Componenti:
+Alessandro Condello 887918
+Martina Elli 886077
+Carlo Luca Comotti 885885
+Link: https://github.com/TechAle/progettoSD
+SSH: git@github.com:TechAle/progettoSD.git
